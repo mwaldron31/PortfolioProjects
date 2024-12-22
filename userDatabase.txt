@@ -1,0 +1,41 @@
+USERNAME: crazyGecko09
+PASSWORD: password
+FRIEND: sadFrog2
+FRIEND: happyGiraffe67
+BLOCK: randomPanda
+CHAT: 2984
+CHAT: 921
+---
+USERNAME: sadFrog2
+PASSWORD: password 2
+FRIEND: crazyGecko09
+FRIEND: sleepyOtter
+FRIEND: curious_shark
+CHAT: 5
+---
+USERNAME: sleepyOtter
+PASSWORD: password 3
+---
+USERNAME: randomPanda
+PASSWORD: password 4
+FRIEND: sleepyOtter
+BLOCK: crazyGecko09
+BLOCK: curious_shark
+CHAT: 2919
+CHAT: 5
+---
+USERNAME: curious_shark
+PASSWORD: password 5
+FRIEND: crazyGecko09
+FRIEND: sadFrog2
+FRIEND: happyGiraffe67
+CHAT: 2984
+CHAT: 921
+---
+USERNAME: happyGiraffe67
+PASSWORD: password 6
+FRIEND: randomPanda
+CHAT: 2919
+CHAT: 5
+CHAT: 389
+---
